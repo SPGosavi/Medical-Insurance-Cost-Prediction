@@ -2,6 +2,9 @@
 
 This project predicts the medical insurance cost based on various factors such as age, BMI, smoking status, and more. It uses machine learning (linear regression) for the prediction and is deployed using Streamlit for a user-friendly interface.
 
+## <h2>Streamlit App</h2>
+Check out the live demo here: https://medical-insurance-cost-prediction-cbyny9ctquhdtbsflsshv6.streamlit.app/
+
 ## <h2>Features</h2>
 - Predicts insurance cost based on user input (age, BMI, sex, smoking status, etc.)
 - Dynamic and interactive web app built with Streamlit
