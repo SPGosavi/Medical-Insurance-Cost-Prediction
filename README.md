@@ -61,5 +61,3 @@ The model was evaluated using the **Mean Squared Error (MSE)** and performs reas
 - **Pandas**: Data manipulation
 - **Streamlit**: Web interface
 
-## <h2>Streamlit App</h2>
-Check out the live demo here: https://medical-insurance-cost-prediction-cbyny9ctquhdtbsflsshv6.streamlit.app/
