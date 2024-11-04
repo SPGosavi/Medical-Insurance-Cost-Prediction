@@ -47,5 +47,5 @@ if st.button("Predict Insurance Cost"):
     st.write(f"Predicted Insurance Cost: ${prediction[0]:,.2f}")
 
 # Model evaluation
-mse = mean_squared_error(y_test, model.predict(X_test))
-st.write(f"Mean Squared Error on Test Set: {mse:.2f}")
+# mse = mean_squared_error(y_test, model.predict(X_test))
+# st.write(f"Mean Squared Error on Test Set: {mse:.2f}")
